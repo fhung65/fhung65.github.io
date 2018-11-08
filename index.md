@@ -14,7 +14,6 @@ thought.
 ## Contact Me
 - General Email: fhung65 at gmail dot com
 - UCLA Email: fhhung at ucla dot edu
-- Github: [github.com/fhung65](https://github.com/fhung65)
 
 ## Publications
 ![A Machine Learning Approach to Perfusion Imaging With Dynamic Susceptibility Contrast MR](/assets/img/mri.jpg)
